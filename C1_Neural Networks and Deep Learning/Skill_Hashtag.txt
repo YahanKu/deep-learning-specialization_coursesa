@@ -1,0 +1,6 @@
+SKILLS YOU WILL GAIN
+Deep Learning
+Artificial Neural Network
+Backpropagation
+Python Programming
+Neural Network Architecture
