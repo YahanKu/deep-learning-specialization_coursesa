@@ -1,0 +1,5 @@
+SKILLS YOU WILL GAIN
+Tensorflow
+Deep Learning
+Mathematical Optimization
+hyperparameter tuning
